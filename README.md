@@ -14,7 +14,7 @@ Este projeto foi realizado para fins puramente educacionais e de estudo. As ferr
 | RAR (Legado - RAR4)      | 2 horas e 59 minutos                    |
 | 7z (Moderno - AES256)    | 10 horas e 53 minutos                   |
 
-**Os resultados detalhados de cada teste podem ser conferidos no diretório "Resultados Detalhados" disponível nesse repositório.**
+🗂️ **Os resultados detalhados de cada teste podem ser conferidos no diretório "Resultados Detalhados" disponível nesse repositório.**
 
 ## ⚙️ Setup de Teste
 
