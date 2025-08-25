@@ -1,0 +1,23 @@
+$pkzip$1*1*2*0*81*a0*757f3f12*0*42*8*81*286a*0bf53bd571afcd6966ce01ce1f8a1fd1b56da23aca061ec3848fab8c9a95b1f7c7b45ab3006ec06ed940f447945205c0314f7588d503f096b293d6be59ca4f97cc2deb8b08708ffd4b305b0508b548604b13ff0b3494b5b3bcd0cd962c70144aa4b00ab2c4bb65483472ad5597faafc47d23a4200df6b973d8b96e653ef0aea3a3*$/pkzip$:983526107
+                                                          
+Session..........: hashcat
+Status...........: Cracked
+Hash.Mode........: 17200 (PKZIP (Compressed))
+Hash.Target......: $pkzip$1*1*2*0*81*a0*757f3f12*0*42*8*81*286a*0bf53b...pkzip$
+Time.Started.....: Tue Aug 19 19:38:36 2025 (0 secs)
+Time.Estimated...: Tue Aug 19 19:38:36 2025 (0 secs)
+Kernel.Feature...: Pure Kernel
+Guess.Mask.......: ?d?d?d?d?d?d?d?d?d [9]
+Guess.Queue......: 1/1 (100.00%)
+Speed.#1.........:  1466.9 MH/s (23.68ms) @ Accel:512 Loops:125 Thr:32 Vec:1
+Recovered........: 1/1 (100.00%) Digests (total), 1/1 (100.00%) Digests (new)
+Progress.........: 204800000/1000000000 (20.48%)
+Rejected.........: 0/204800000 (0.00%)
+Restore.Point....: 0/1000000 (0.00%)
+Restore.Sub.#1...: Salt:0 Amplifier:500-625 Iteration:0-125
+Candidate.Engine.: Device Generator
+Candidates.#1....: 124456789 -> 915763870
+Hardware.Mon.#1..: Temp: 38c Util:  0% Core:1432MHz Mem:5411MHz Bus:4
+
+Started: Tue Aug 19 19:38:35 2025
+Stopped: Tue Aug 19 19:38:37 2025

@@ -1,0 +1,24 @@
+$7z$2$19$0$$16$84435db4b458bc77e3c843aaf86a9810$1971273490$144$140$827aebb140eda8dd6f78f09077ee1b4c74b25923ad78617f726d5746eb439d66cae4440a06d38319bd78b9a5d292c5b89e1e067a3b45ea9fe36b975fb24d295079726bfdfb540f3680357cf15f4e354fb6f97fb55911f8e5ba61ba038983a92a971e1b8fa22df0a4570638ebf8701d82b61f28f1f6373f3023e7fd40e73bc11889e90334820fd8e8223e6f109cc1c55e$160$00:983526107
+                                                          
+Session..........: hashcat
+Status...........: Cracked
+Hash.Mode........: 11600 (7-Zip)
+Hash.Target......: $7z$2$19$0$$16$84435db4b458bc77e3c843aaf86a9810$197...160$00
+Time.Started.....: Wed Aug 20 09:57:12 2025 (10 hours, 53 mins)
+Time.Estimated...: Wed Aug 20 20:51:01 2025 (0 secs)
+Kernel.Feature...: Pure Kernel
+Guess.Mask.......: ?d?d?d?d?d?d?d?d?d [9]
+Guess.Queue......: 1/1 (100.00%)
+Speed.#1.........:     5701 H/s (3.28ms) @ Accel:32 Loops:64 Thr:256 Vec:1
+Recovered........: 1/1 (100.00%) Digests (total), 1/1 (100.00%) Digests (new)
+Progress.........: 223641600/1000000000 (22.36%)
+Rejected.........: 0/223641600 (0.00%)
+Restore.Point....: 22282240/100000000 (22.28%)
+Restore.Sub.#1...: Salt:0 Amplifier:4-5 Iteration:524224-524288
+Candidate.Engine.: Device Generator
+Candidates.#1....: 925116671 -> 979140211
+Hardware.Mon.#1..: Temp: 61c Util: 92% Core:1680MHz Mem:5411MHz Bus:4
+
+Started: Wed Aug 20 09:57:09 2025
+Stopped: Wed Aug 20 20:51:02 2025
+

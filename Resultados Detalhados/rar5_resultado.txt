@@ -1,0 +1,23 @@
+$rar5$16$ebba1d0d325b8462eb920890eb372f47$15$cb3a77bd3ae09e8881ec4f3213716a93$8$1584316e90469975:983526107
+                                                          
+Session..........: hashcat
+Status...........: Cracked
+Hash.Mode........: 13000 (RAR5)
+Hash.Target......: $rar5$16$ebba1d0d325b8462eb920890eb372f47$15$cb3a77...469975
+Time.Started.....: Thu Aug 21 01:55:15 2025 (2 hours, 32 mins)
+Time.Estimated...: Thu Aug 21 04:28:13 2025 (0 secs)
+Kernel.Feature...: Pure Kernel
+Guess.Mask.......: ?d?d?d?d?d?d?d?d?d [9]
+Guess.Queue......: 1/1 (100.00%)
+Speed.#1.........:    24368 H/s (6.10ms) @ Accel:32 Loops:32 Thr:256 Vec:1
+Recovered........: 1/1 (100.00%) Digests (total), 1/1 (100.00%) Digests (new)
+Progress.........: 223641600/1000000000 (22.36%)
+Rejected.........: 0/223641600 (0.00%)
+Restore.Point....: 22282240/100000000 (22.28%)
+Restore.Sub.#1...: Salt:0 Amplifier:4-5 Iteration:32768-32799
+Candidate.Engine.: Device Generator
+Candidates.#1....: 925116671 -> 979140211
+Hardware.Mon.#1..: Temp: 67c Util: 94% Core:1657MHz Mem:5411MHz Bus:4
+
+Started: Thu Aug 21 01:55:13 2025
+Stopped: Thu Aug 21 04:28:15 2025
