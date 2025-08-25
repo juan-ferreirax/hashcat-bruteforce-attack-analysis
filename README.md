@@ -16,10 +16,10 @@ Este projeto foi realizado para fins puramente educacionais e de estudo. As ferr
 
 ## ⚙️ Setup de Teste
 
- **👨🏻‍💻 Softwares:** Hashcat v6.2.6 e John the Ripper v1.9.0
-**🐧 Sistema Operacional:** Ubuntu LTS 24.04.2
-**⚙️ Hardware:** GPU Nvidia Geforce RTX 3050 6GB
-**🛠️ Drivers:** NVIDIA Driver v580.65.06, CUDA Toolkit v13.0
+**👨🏻‍💻 Softwares:** Hashcat v6.2.6 e John the Ripper v1.9.0  
+**🐧 Sistema Operacional:** Ubuntu LTS 24.04.2  
+**⚙️ Hardware:** GPU Nvidia Geforce RTX 3050 6GB  
+**🛠️ Drivers:** NVIDIA Driver v580.65.06, CUDA Toolkit v13.0  
 **🗃️ Arquivos Compactados:** 2 arquivos .zip, 2 arquvios .rar e 1 arquivo .7z
 
 ## \#️⃣Metodologia e Comandos
