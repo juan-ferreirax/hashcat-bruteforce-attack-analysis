@@ -27,11 +27,11 @@ Este projeto foi realizado para fins puramente educacionais e de estudo. As ferr
 ### Script para criar os 5 arquivos de teste com uma senha de 9 dígitos:
 
 ```
-# --- Criação de arquivos compactados com senha e criptografia ---
-#1. Foi utilizado o arquivo file.txt disponível nesse repositório para criação dos arquivos compactados
-#2. As versões mais recentes do Winrar não suportam mais a criação de arquivos no formato RAR4 Legado, foi utilizado a v5.5.0 do utilitário RAR disponível nesse repositório.
-#3. Para a criação do arquivo compactado no formato .7z é necessário ter o utilitário CLI instalado.
-#4. Utilitário CLI do 7z pode ser instalado em distros linux baseadas em Debian(Ubuntu, ZorinOS, Kali, Mint etc) através do comando "sudo apt install p7zip-full"
+#CRIAÇÃO DE ARQUIVOS COMPACTADOS COM SENHA E CRIPTOGRAFIA
+#1. Foi utilizado o arquivo file.txt disponível nesse repositório para criação #dos arquivos compactados
+#2. As versões mais recentes do Winrar não suportam mais a criação de arquivos #no formato RAR4 Legado, foi utilizado a v5.5.0 do utilitário RAR disponível #nesse repositório.
+#3. Para a criação do arquivo compactado no formato .7z é necessário ter o #utilitário CLI instalado.
+#4. Utilitário CLI do 7z pode ser instalado em distros linux baseadas em #Debian(Ubuntu, ZorinOS, Kali, Mint etc) através do comando "sudo apt install #p7zip-full"
 
 # 1. ZIP Legado (ZipCrypto)
 zip -e zip_ZipCrypto.zip file.txt
