@@ -54,11 +54,12 @@ echo "Os 5 arquivos compactados foram criados com sucesso usando file.txt"
 ### Script para extrair os hashes usando o software John the Ripper:
 
 ```
-# --- Extração dos Hashes para o Projeto ---
-#1. É necessário ter o utilitário CLI do John the Ripper para extração dos hashes
-#2. Talvez seja necessário adicionar o sufixo .pl ou .py depois do início da invocação do comando
-#3. Para uso do hash no utilitário CLI do Hashcat é conveniente salvar o hash em um arquivo de texto
-#4. Talvez seja necessário formatar o Hash após a extração no arquivo de texto para que seja compatível com o Hashcat.
+#EXTRAÇÃO DOS HASHES PARA OS TESTES
+#1. É necessário ter o utilitário CLI do John the Ripper para extração dos hashes.
+#2. O utilitário John the Ripper pode ser obtido em https://www.openwall.com/john/
+#3. Talvez seja necessário adicionar o sufixo .pl ou .py depois do início da invocação do comando.
+#4. Para uso do hash no utilitário CLI do Hashcat é conveniente salvar o hash em um arquivo de texto.
+#5. Talvez seja necessário formatar o Hash após a extração no arquivo de texto para que seja compatível com o Hashcat.
 
 # 1. Arquivos ZIP
 # Extrai o hash do ZIP com criptografia legada (ZipCrypto)
