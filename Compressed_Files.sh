@@ -1,7 +1,5 @@
 #!/bin/bash
 
-#!/bin/bash
-
 # --- Criação de Arquivos Compactados com Senha e Criptografia ---
 #1. Foi utilizado o arquivo file.txt disponível nesse repositório para criação #dos arquivos compactados
 #2. As versões mais recentes do Winrar não suportam mais a criação de arquivos #no formato RAR4 Legado, foi utilizado a v5.5.0 do utilitário RAR disponível #nesse repositório.
